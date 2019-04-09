@@ -1,14 +1,11 @@
-## About
+## About GKS
 
-You can use the [editor on GitHub](https://github.com/gks-vc/gks-vc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Founded in 2019 by Alan Glennon, Iryna Kryvda and Maxim Serebryakov, GKS is a San Francisco-based venture capital partnership focused on early stage technology entrepreneurs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Team
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-<img src="https://gks-vc.github.io/assets/images/gksvc-glennon.jpg">
+<img src="https://gks-vc.github.io/assets/images/gksvc-glennon.jpg"> 
+Alan Glennon, PhD
 
 ```markdown
 Syntax highlighted code block
