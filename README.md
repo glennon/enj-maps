@@ -4,6 +4,6 @@ Founded in 2019 by Alan Glennon, Iryna Kryvda and Maxim Serebryakov, GKS is a Sa
 
 ## People
 
-<img src="https://gks-vc.github.io/assets/images/gksvc-glennon.jpg"><br />
+<img src="https://gks-vc.github.io/assets/images/gksvc-glennon.jpg" width="150px"><br />
 Alan Glennon, PhD
 
