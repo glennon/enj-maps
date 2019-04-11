@@ -11,7 +11,7 @@ Glennon, Kryvda, & Serebryakov is a San Francisco-based venture partnership focu
 <table>
   <tr>
     <td width="35%">
-      <img src="https://gks-vc.github.io/assets/images/gksvc-glennon.jpg" width="100%"><p />
+      <img src="https://gks-vc.github.io/assets/images/glennon240bw.jpg" width="100%"><p />
       <b>Alan Glennon, PhD</b><br />
       <a href="https://angel.co/glennon">angel.co/glennon</a><br />
     </td>
