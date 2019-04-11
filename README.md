@@ -18,7 +18,7 @@ Alan Glennon began his career as a park ranger-geologist studying caves and geys
     </td>
   </tr>
   <tr>
-  <td>
+  <td width="100%">
     <b>Alan Glennon, PhD</b><br />
     <a href="https://angel.co/glennon">angel.co/glennon</a><br />
   </td>
