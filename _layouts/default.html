@@ -11,10 +11,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body style="font-family:Georgia;">
     <div class="wrapper">
       <header>
-        <h1><font face="Georgia">{{ site.title | default: site.github.repository_name }}</font></h1>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
