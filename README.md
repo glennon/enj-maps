@@ -1,22 +1,22 @@
 ## About GKS
 
-GKS is a San Francisco-based venture capital partnership focused on early stage technology entrepreneurs.
+Glennon, Kryvda, & Serebryakov is a San Francisco-based venture capital partnership focused on pre-seed and seed investments in transformative, tech-enabled companies.
 
 <p>
 <img src="https://gks-vc.github.io/assets/images/hacker.jpg"> 
 </p>
 
-## People
+## Team
 
-Alan Glennon, PhD<br />
-<small>General Partner</small><br />
+__Alan Glennon, PhD__  
+<p>Originally from Texas, Alan Glennon began his career as a park ranger-geologist studying caves and geysers. He later earned a doctorate in computational geography and co-founded Arogi, an NSF-funded geospatial analytics company. After the company's exit and now living in Silicon Valley, he began advising startup founders and investing full time.</p>
 <a href="https://angel.co/glennon">angel.co/glennon</a><br />
 <p />
-Iryna Kryvda<br />
-<small>General Partner</small><br />
-<a href="https://www.linkedin.com/in/iryna-kryvda-a12429b9/">linkedin.com</a>
+
+__Iryna Kryvda__  
+<a href="https://www.linkedin.com/in/iryna-kryvda-a12429b9/">linkedin.com/in/iryna-kryvda-a12429b9/</a>
 <p />
-Maxim Serebryakov<br />
-<small>General Partner</small><br />
+
+__Maxim Serebryakov__  
 
 
