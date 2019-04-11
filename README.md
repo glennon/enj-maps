@@ -30,6 +30,7 @@ Alan Glennon began his career as a park ranger-geologist studying caves and geys
       <a href="https://www.linkedin.com/in/iryna-kryvda-a12429b9/">linkedin.com</a><br />
     </td>
     <td width="65%" valign="top">
+Amelia Mary Earhart was an American aviation pioneer and author. Earhart was the first female aviator to fly solo across the Atlantic Ocean. She received the United States Distinguished Flying Cross for this accomplishment.
     </td>
   </tr>
 </table>
@@ -41,6 +42,7 @@ Alan Glennon began his career as a park ranger-geologist studying caves and geys
       <b>Maxim Serebryakov</b><br />
     </td>
     <td width="65%" valign="top">
+Amelia Mary Earhart was an American aviation pioneer and author. Earhart was the first female aviator to fly solo across the Atlantic Ocean. She received the United States Distinguished Flying Cross for this accomplishment.
     </td>
   </tr>
 </table>
