@@ -1,9 +1,18 @@
 ## About GKS
 
-Founded in 2019 by Alan Glennon, Iryna Kryvda and Maxim Serebryakov, GKS is a San Francisco-based venture capital partnership focused on early stage technology entrepreneurs.
+GKS is a San Francisco-based venture capital partnership focused on early stage technology entrepreneurs.
 
 ## People
 
-<img src="https://gks-vc.github.io/assets/images/gksvc-glennon.jpg" width="150px"><br />
-Alan Glennon, PhD
+Alan Glennon, PhD<br />
+<small>General Partner</small><br />
+<a href="https://angel.co/glennon">angel.co/glennon</a><br />
+<p />
+Iryna Kryvda<br />
+<small>General Partner</small><br />
+<a href="https://www.linkedin.com/in/iryna-kryvda-a12429b9/">linkedin.com</a>
+<p />
+Maxim Serebryakov<br />
+<small>General Partner</small><br />
+
 
