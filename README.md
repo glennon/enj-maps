@@ -40,6 +40,7 @@ Marie Skłodowska Curie was a Polish and naturalized-French physicist and chemis
     <td width="35%">
       <img src="https://gks-vc.github.io/assets/images/bulb.jpg" width="100%"><p />
       <b>Maxim Serebryakov</b><br />
+      <a href="https://angel.co">angel.co</a><br />
     </td>
     <td width="65%" valign="top">
 Pavel Alekseyevich Cherenkov was a Soviet physicist who shared the Nobel Prize in physics in 1958 with Ilya Frank and Igor Tamm for the discovery of Cherenkov radiation, made in 1934.
