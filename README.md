@@ -2,6 +2,10 @@
 
 GKS is a San Francisco-based venture capital partnership focused on early stage technology entrepreneurs.
 
+<p>
+<img src="https://gks-vc.github.io/assets/images/hacker.jpg"> 
+</p>
+
 ## People
 
 Alan Glennon, PhD<br />
