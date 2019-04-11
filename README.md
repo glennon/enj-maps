@@ -13,9 +13,15 @@ Glennon, Kryvda, & Serebryakov is a San Francisco-based venture partnership focu
     <td width="35%"><img src="https://gks-vc.github.io/assets/images/gksvc-glennon.jpg" width="100%"> </td>
     <td width="65%">
       
-<b>Alan Glennon, PhD</b><br />
-Alan Glennon began his career as a park ranger-geologist studying caves and geysers. He later earned a doctorate in computational geography and co-founded Arogi, an NSF-funded geospatial analytics company. After the company's exit, now living in Silicon Valley, he started advising startup founders and investing full time. <a href="https://angel.co/glennon">angel.co/glennon</a><br />
+
+Alan Glennon began his career as a park ranger-geologist studying caves and geysers. He later earned a doctorate in computational geography and co-founded Arogi, an NSF-funded geospatial analytics company. After the company's exit, now living in Silicon Valley, he started advising startup founders and investing full time. 
     </td>
+  </tr>
+  <tr>
+  <td>
+    <b>Alan Glennon, PhD</b><br />
+    <a href="https://angel.co/glennon">angel.co/glennon</a><br />
+  </td>
   </tr>
 </table>
 
