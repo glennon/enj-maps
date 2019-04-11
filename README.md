@@ -1,6 +1,6 @@
 ## About GKS
 
-Glennon, Kryvda, & Serebryakov is a San Francisco-based venture capital partnership focused on pre-seed and seed investments in transformative, tech-enabled companies.
+Glennon, Kryvda, & Serebryakov is a San Francisco-based venture partnership focused on pre-seed and seed capital for transformative, tech-enabled companies.
 
 <p>
 <img src="https://gks-vc.github.io/assets/images/hacker.jpg"> 
