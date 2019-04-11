@@ -1,7 +1,7 @@
 Glennon, Kryvda, & Serebryakov is a San Francisco-based venture partnership focused on pre-seed and seed capital for transformative, tech-enabled companies.
 
 <p>
-<img src="https://gks-vc.github.io/assets/images/working.jpg"> 
+<img src="https://gks.vc/assets/images/working.jpg"> 
 </p>
 
 ## Team
@@ -9,7 +9,7 @@ Glennon, Kryvda, & Serebryakov is a San Francisco-based venture partnership focu
 <table>
   <tr>
     <td width="35%">
-      <img src="https://gks-vc.github.io/assets/images/glennon240bw.jpg" width="100%"><p />
+      <img src="https://gks.vc/assets/images/glennon240bw.jpg" width="100%"><p />
       <b>Alan Glennon, PhD</b><br />
       <a href="https://angel.co/glennon">angel.co/glennon</a><br />
     </td>
@@ -23,7 +23,7 @@ Alan Glennon began his career as a park ranger-geologist studying caves and geys
 <table>
   <tr>
     <td width="35%">
-      <img src="https://gks-vc.github.io/assets/images/kryvda.jpg" width="100%"><p />
+      <img src="https://gks.vc/assets/images/kryvda.jpg" width="100%"><p />
       <b>Iryna Kryvda</b><br />
       <a href="https://www.linkedin.com/in/iryna-kryvda-a12429b9/">linkedin.com</a><br />
     </td>
@@ -36,7 +36,7 @@ Marie Skłodowska Curie was a Polish and naturalized-French physicist and chemis
 <table>
   <tr>
     <td width="35%">
-      <img src="https://gks-vc.github.io/assets/images/bulb.jpg" width="100%"><p />
+      <img src="https://gks.vc/assets/images/bulb.jpg" width="100%"><p />
       <b>Maxim Serebryakov</b><br />
       <a href="https://angel.co">angel.co</a><br />
     </td>
