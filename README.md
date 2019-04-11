@@ -30,7 +30,7 @@ Alan Glennon began his career as a park ranger-geologist studying caves and geys
       <a href="https://www.linkedin.com/in/iryna-kryvda-a12429b9/">linkedin.com</a><br />
     </td>
     <td width="65%" valign="top">
-Amelia Mary Earhart was an American aviation pioneer and author. Earhart was the first female aviator to fly solo across the Atlantic Ocean. She received the United States Distinguished Flying Cross for this accomplishment.
+Marie Skłodowska Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize, the first person and only woman to win twice, and the only person to win a Nobel Prize in two different sciences.
     </td>
   </tr>
 </table>
@@ -42,7 +42,7 @@ Amelia Mary Earhart was an American aviation pioneer and author. Earhart was the
       <b>Maxim Serebryakov</b><br />
     </td>
     <td width="65%" valign="top">
-Amelia Mary Earhart was an American aviation pioneer and author. Earhart was the first female aviator to fly solo across the Atlantic Ocean. She received the United States Distinguished Flying Cross for this accomplishment.
+Pavel Alekseyevich Cherenkov was a Soviet physicist who shared the Nobel Prize in physics in 1958 with Ilya Frank and Igor Tamm for the discovery of Cherenkov radiation, made in 1934.
     </td>
   </tr>
 </table>
