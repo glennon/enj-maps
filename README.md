@@ -25,7 +25,7 @@ Alan Glennon began his career as a park ranger-geologist studying caves and geys
 <table>
   <tr>
     <td width="35%">
-      <img src="https://gks-vc.github.io/assets/images/gksvc-glennon.jpg" width="100%"><p />
+      <img src="https://gks-vc.github.io/assets/images/kryvda.jpg" width="100%"><p />
       <b>Iryna Kryvda</b><br />
       <a href="https://www.linkedin.com/in/iryna-kryvda-a12429b9/">linkedin.com</a><br />
     </td>
@@ -37,7 +37,7 @@ Alan Glennon began his career as a park ranger-geologist studying caves and geys
 <table>
   <tr>
     <td width="35%">
-      <img src="https://gks-vc.github.io/assets/images/gksvc-glennon.jpg" width="100%"><p />
+      <p />
       <b>Maxim Serebryakov</b><br />
     </td>
     <td width="65%" valign="top">
