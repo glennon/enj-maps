@@ -38,7 +38,7 @@ Amelia Mary Earhart was an American aviation pioneer and author. Earhart was the
 <table>
   <tr>
     <td width="35%">
-      <p />
+      <img src="https://gks-vc.github.io/assets/images/bulb.jpg" width="100%"><p />
       <b>Maxim Serebryakov</b><br />
     </td>
     <td width="65%" valign="top">
