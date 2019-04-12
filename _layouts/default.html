@@ -14,9 +14,6 @@
   <body style="font-family:Georgia;">
     <div class="wrapper">
       <header>
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -27,9 +24,9 @@
       {{ content }}
 
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      <footer>      
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
         <p>San Francisco, California</p>
       </footer>
