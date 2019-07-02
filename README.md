@@ -1,7 +1,10 @@
 Glennon, Kryvda, & Serebryakov is a San Francisco-based venture partnership focused on pre-seed and seed capital for transformative, tech-enabled companies.
 
 <p>
-<img src="https://gks.vc/assets/images/working.jpg"> 
+<img src="https://alanglennon.com/enj-maps/assets/images/westlake3.png"><br />
+<img src="https://alanglennon.com/enj-maps/assets/images/sfnight3.png"><br />
+<img src="https://alanglennon.com/enj-maps/assets/images/airport3.png"><br />  
+<img src="https://alanglennon.com/enj-maps/assets/images/bathymetry3.png"><br />  
 </p>
 
 ## Team
